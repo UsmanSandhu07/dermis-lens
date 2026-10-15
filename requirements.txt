@@ -1,0 +1,14 @@
+streamlit
+torch
+torchvision
+numpy
+pandas
+opencv-python
+Pillow
+albumentations
+efficientnet-pytorch
+scikit-learn
+matplotlib
+seaborn
+tqdm
+colorama
